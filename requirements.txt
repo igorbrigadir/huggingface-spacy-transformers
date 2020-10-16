@@ -1,0 +1,6 @@
+plac
+wasabi
+spacy-transformers==0.6.2
+spacy>=2.3.0,<2.4.0
+transformers>=2.4.0,<2.9.0
+
